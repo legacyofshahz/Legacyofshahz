@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-labelledby="title description">
+<title id="title">Chromatic light spectrum footer</title>
+<desc id="description">Midnight navy footer with bright cyan, crimson, orange and gold light.</desc>
+<defs>
+<linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00CDE8"/><stop offset=".28" stop-color="#08B7B4"/><stop offset=".49" stop-color="#E61929"/><stop offset=".76" stop-color="#FF7900"/><stop offset="1" stop-color="#FFC46B"/></linearGradient>
+<linearGradient id="ground" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#072231"/><stop offset="1" stop-color="#020D21"/></linearGradient>
+</defs>
+<rect width="1200" height="96" fill="#020D21"/>
+<path d="M0 60 C230 2 410 92 610 54 S990 7 1200 42 L1200 96 H0Z" fill="url(#ground)"/>
+<path d="M0 44 C210 1 430 93 640 47 S1010 4 1200 43" fill="none" stroke="url(#spectrum)" stroke-width="7"/>
+<path d="M0 72 C240 31 425 99 640 76 S1030 40 1200 75" fill="none" stroke="url(#spectrum)" stroke-width="2" opacity=".6"/>
+</svg>
