@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-legacyofshahz-0A1830?style=for-the-badge&logo=github&logoColor=white)](https://github.com/legacyofshahz)
 
-[![Public Project](https://img.shields.io/badge/Public%20Project-Hedera%20Settlement-FF7900?style=for-the-badge&logo=git&logoColor=white)](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement)
+[![Public Project](https://img.shields.io/badge/Public%20Project-Hedera%20HBAR%20Scaffold-FF7900?style=for-the-badge&logo=git&logoColor=white)](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement)
 
 <img src="https://komarev.com/ghpvc/?username=legacyofshahz&amp;style=flat-square&amp;color=00CDE8" alt="Profile views" /> <img src="https://img.shields.io/github/followers/legacyofshahz?style=flat-square&amp;color=FF7900&amp;label=Followers" alt="GitHub followers" /> <img src="https://img.shields.io/github/stars/legacyofshahz?style=flat-square&amp;color=E61929&amp;label=Stars" alt="GitHub stars" />
 
@@ -177,7 +177,7 @@ This section describes engineering work and research interests. It does not asse
 ## Featured Projects
 
 <details open>
-<summary><b>Oracle-Guarded Sovereign Settlement | Hedera</b></summary>
+<summary><b>Hedera HBAR Settlement Scaffold | Hedera Testnet</b></summary>
 
 A public, testnet-first engineering template for policy-constrained HBAR settlements. It combines signed execution authorization, oracle freshness safeguards, independent transaction observation and integrity anchoring.
 
@@ -323,7 +323,7 @@ open_to:
 ## Connect
 
 **GitHub:** [legacyofshahz](https://github.com/legacyofshahz)  
-**Featured work:** [Oracle-Guarded Sovereign Settlement](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement)
+**Featured work:** [Hedera HBAR Settlement Scaffold](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement)
 
 Contact through my GitHub profile.
 
