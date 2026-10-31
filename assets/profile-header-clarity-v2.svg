@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+<title id="title">SHAHAZAD SHAMEEM ARAKKAL | SHAZEE</title>
+<desc id="description">Crisp two-line name in a cyan-to-white-to-amber gradient above the Shazee signature, over a midnight navy background with restrained cyan, crimson and orange light streaks.</desc>
+<defs>
+<linearGradient id="night" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#031528"/><stop offset=".3" stop-color="#061225"/><stop offset=".5" stop-color="#070C1A"/><stop offset=".73" stop-color="#1D0E20"/><stop offset="1" stop-color="#091322"/></linearGradient>
+<linearGradient id="cold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#00CDE8" stop-opacity="0"/><stop offset=".26" stop-color="#00CDE8" stop-opacity=".74"/><stop offset=".74" stop-color="#10CBE0" stop-opacity=".35"/><stop offset="1" stop-color="#FFC46B" stop-opacity="0"/></linearGradient>
+<linearGradient id="hot" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#E61929" stop-opacity="0"/><stop offset=".3" stop-color="#E61929" stop-opacity=".8"/><stop offset=".73" stop-color="#FF7900" stop-opacity=".8"/><stop offset="1" stop-color="#FFC46B" stop-opacity=".1"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00CDE8"/><stop offset=".35" stop-color="#1AD6D3"/><stop offset=".68" stop-color="#E61929"/><stop offset=".87" stop-color="#FF7900"/><stop offset="1" stop-color="#FFC46B"/></linearGradient>
+<linearGradient id="sub" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#95E8F6"/><stop offset=".52" stop-color="#F2FAFF"/><stop offset="1" stop-color="#FFC46B"/></linearGradient>
+<filter id="backgroundHaze" x="-30%" y="-20%" width="160%" height="140%"><feGaussianBlur stdDeviation="19"/></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#night)"/>
+<g opacity=".56" filter="url(#backgroundHaze)">
+<path d="M59 -25 H174 L121 375 H38Z" fill="#00CDE8" opacity=".48"/>
+<path d="M1012 -35 H1140 L1160 375 H1001Z" fill="#FF7900" opacity=".47"/>
+<path d="M953 -35 H1028 L999 375 H951Z" fill="#E61929" opacity=".38"/>
+</g>
+<g opacity=".7">
+<path d="M43 0 H51 L72 360 H65Z" fill="url(#cold)"/>
+<path d="M92 0 H97 L115 360 H110Z" fill="url(#cold)"/>
+<path d="M165 0 H172 L185 360 H179Z" fill="url(#cold)"/>
+<path d="M1010 0 H1017 L1027 360 H1021Z" fill="url(#hot)"/>
+<path d="M1090 0 H1096 L1108 360 H1102Z" fill="url(#hot)"/>
+<path d="M1153 0 H1159 L1168 360 H1162Z" fill="url(#cold)"/>
+</g>
+<text x="600" y="133" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="700" letter-spacing=".35" fill="url(#sub)">SHAHAZAD SHAMEEM</text>
+<text x="600" y="235" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="91" font-weight="700" letter-spacing="1.2" fill="url(#sub)">ARAKKAL</text>
+<path d="M385 264 H815" fill="none" stroke="url(#line)" stroke-width="2.6" opacity=".9"/>
+<text x="600" y="319" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="600" letter-spacing="6" fill="url(#sub)">SHAZEE</text>
+<path d="M0 354 H1200" stroke="url(#line)" stroke-width="5" opacity=".92"/>
+</svg>
