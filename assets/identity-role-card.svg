@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="395" viewBox="0 0 1200 395" role="img" aria-labelledby="title description">
+<title id="title">CEO &amp; Founder - Syneximo Dynamics | Principal Software Architect x AI/ML Engineer</title>
+<desc id="description">CEO and Founder, Syneximo Dynamics. Principal Software Architect x AI/ML Engineer. Cybersecurity, Cryptography, Cloud Computing, Blockchain and Web3.</desc>
+<defs>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#D9F9FF" stop-opacity=".16"/><stop offset=".28" stop-color="#93DAE8" stop-opacity=".06"/><stop offset=".74" stop-color="#17334B" stop-opacity=".11"/><stop offset="1" stop-color="#FFDAA9" stop-opacity=".08"/></linearGradient>
+<linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C2637"/><stop offset=".5" stop-color="#081321"/><stop offset="1" stop-color="#211724"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B3F5FF" stop-opacity=".72"/><stop offset=".4" stop-color="#76E9F7" stop-opacity=".25"/><stop offset=".65" stop-color="#FFF2DC" stop-opacity=".19"/><stop offset="1" stop-color="#FFC46B" stop-opacity=".66"/></linearGradient>
+<linearGradient id="spectral" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00CDE8" stop-opacity=".16"/><stop offset=".38" stop-color="#B3F7FF" stop-opacity=".56"/><stop offset=".62" stop-color="#FFE3BE" stop-opacity=".35"/><stop offset=".86" stop-color="#FF7900" stop-opacity=".5"/><stop offset="1" stop-color="#FFC46B" stop-opacity=".16"/></linearGradient>
+<radialGradient id="cool" cx=".5" cy=".5" r=".5"><stop stop-color="#00D8F4" stop-opacity=".25"/><stop offset="1" stop-color="#00D8F4" stop-opacity="0"/></radialGradient>
+<radialGradient id="warm" cx=".5" cy=".5" r=".5"><stop stop-color="#FF9500" stop-opacity=".2"/><stop offset="1" stop-color="#FF9500" stop-opacity="0"/></radialGradient>
+<filter id="softGlow" x="-25%" y="-30%" width="150%" height="160%"><feGaussianBlur stdDeviation="19"/></filter>
+<clipPath id="frame"><rect x="10" y="10" width="1180" height="375" rx="32"/></clipPath>
+</defs>
+<rect x="5" y="5" width="1190" height="385" rx="37" fill="#020D21"/>
+<rect x="10" y="10" width="1180" height="375" rx="32" fill="url(#surface)"/>
+<g clip-path="url(#frame)">
+<ellipse cx="130" cy="160" rx="245" ry="335" fill="url(#cool)"/>
+<ellipse cx="1070" cy="258" rx="250" ry="325" fill="url(#warm)"/>
+<path d="M18 42 C280 -14 435 76 680 26 S1080 17 1180 49" fill="none" stroke="#FFFFFF" stroke-opacity=".18" stroke-width="24" filter="url(#softGlow)"/>
+<rect x="10" y="10" width="1180" height="375" fill="url(#glass)"/>
+</g>
+<rect x="10" y="10" width="1180" height="375" rx="32" fill="none" stroke="url(#rim)" stroke-width="2.3"/>
+<rect x="18" y="18" width="1164" height="359" rx="27" fill="none" stroke="#F7FCFF" stroke-opacity=".085"/>
+<text x="600" y="93" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="50" fill="#FAFCFF">CEO &amp; Founder - Syneximo Dynamics</text>
+<line x1="125" y1="123" x2="1075" y2="123" stroke="url(#spectral)" stroke-width="2"/>
+<text x="600" y="188" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="46" fill="#F7FAFF">Principal Software Architect x AI/ML Engineer</text>
+<line x1="85" y1="228" x2="1115" y2="228" stroke="url(#spectral)" stroke-width="2"/>
+<text x="600" y="291" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="43" fill="#C9EFF2">Cybersecurity • Cryptography</text>
+<text x="600" y="349" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="42" fill="#EED2BB">Cloud Computing • Blockchain • Web3</text>
+</svg>
