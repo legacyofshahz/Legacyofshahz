@@ -16,7 +16,7 @@
 
 [![Public Project](https://img.shields.io/badge/Public%20Project-Hedera%20HBAR%20Scaffold-FF7900?style=for-the-badge&logo=git&logoColor=white)](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.)
 
-**Explore real engineering:** [Source](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.) · [Testnet evidence](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.#verified-hedera-testnet-evidence) · [CI checks](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold./actions)
+**Explore real engineering:** [Source](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.) · [Reproduce the proof](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold./blob/main/docs/VERIFY_TESTNET_PROOF.md) · [CI checks](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold./actions)
 
 </div>
 
