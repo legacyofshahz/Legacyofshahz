@@ -14,9 +14,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-legacyofshahz-0A1830?style=for-the-badge&logo=github&logoColor=white)](https://github.com/legacyofshahz)
 
-[![Public Project](https://img.shields.io/badge/Public%20Project-Hedera%20HBAR%20Scaffold-FF7900?style=for-the-badge&logo=git&logoColor=white)](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement)
+[![Public Project](https://img.shields.io/badge/Public%20Project-Hedera%20HBAR%20Scaffold-FF7900?style=for-the-badge&logo=git&logoColor=white)](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.)
 
-<img src="https://komarev.com/ghpvc/?username=legacyofshahz&amp;style=flat-square&amp;color=00CDE8" alt="Profile views" /> <img src="https://img.shields.io/github/followers/legacyofshahz?style=flat-square&amp;color=FF7900&amp;label=Followers" alt="GitHub followers" /> <img src="https://img.shields.io/github/stars/legacyofshahz?style=flat-square&amp;color=E61929&amp;label=Stars" alt="GitHub stars" />
+**Explore real engineering:** [Source](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.) · [Testnet evidence](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.#verified-hedera-testnet-evidence) · [CI checks](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold./actions)
 
 </div>
 
@@ -163,7 +163,7 @@ My cybersecurity focus is **secure-by-design engineering**: reducing unauthorize
 | Security domain | Approach | Evidence boundary |
 | :--- | :--- | :--- |
 | **Identity & access** | Least privilege, scoped delegation, explicit authorization and revocation design | Architecture and policy controls |
-| **Cryptographic authorization** | Signed intents, integrity commitments and replay-resistant operations | Public Solidity implementation in the [Hedera scaffold](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement) |
+| **Cryptographic authorization** | Signed intents, integrity commitments and replay-resistant operations | Public Solidity implementation in the [Hedera scaffold](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.) |
 | **Secure execution** | Expiry checks, input validation, oracle freshness checks and fail-closed behavior | Testnet-first project documentation and tests |
 | **Cloud & application security** | Secret isolation, CI controls, dependency hygiene and threat-model-driven review | Ongoing engineering focus |
 | **Defensive research** | Failure analysis, attack-surface reduction and reproducible security testing | Exploration, not an accredited security assessment |
@@ -189,11 +189,11 @@ A public, testnet-first engineering template for policy-constrained HBAR settlem
 | **Security** | EIP-712 authorization, replay protection, deadlines, bounded price and oracle freshness checks |
 | **Evidence** | Mirror Node result verification and Hedera Consensus Service (HCS) integrity record |
 | **Impact** | Reference implementation for evidence-oriented settlement workflows |
-| **Repository** | [View source](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement) |
+| **Repository** | [View source](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.) |
 
 The repository README documents a Hedera testnet settlement transaction and an HCS evidence record. These are presented as **repository-reported testnet evidence**, not proof of mainnet qualification or live commercial settlement.
 
-[Repository documentation and evidence](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement#verified-hedera-testnet-evidence)
+[Repository documentation and evidence](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.#verified-hedera-testnet-evidence)
 
 </details>
 
@@ -207,8 +207,8 @@ I distinguish **implementation**, **automated testing**, **observed execution** 
 
 | Evidence level | Publicly inspectable source | What it establishes |
 | :--- | :--- | :--- |
-| **Source implementation** | [Scaffold-HBAR repository](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement) | Published design and source code, not operational readiness |
-| **Automated qualification** | [GitHub Actions workflow history](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement/actions) | Inspectable test and CI records; check individual run conclusions |
+| **Source implementation** | [Scaffold-HBAR repository](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.) | Published design and source code, not operational readiness |
+| **Automated qualification** | [GitHub Actions workflow history](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold./actions) | Inspectable test and CI records; check individual run conclusions |
 | **Testnet execution** | [Mirror Node settlement record](https://testnet.mirrornode.hedera.com/api/v1/contracts/results/0x900e24a5817b928a9f2f92aceab6ae0c4f0cbe59fb1927ba4ce7c5fee92877c9) | A specific Hedera testnet transaction reference |
 | **Integrity anchoring** | [HCS message record](https://testnet.mirrornode.hedera.com/api/v1/topics/0.0.10639224/messages/1) | A separately inspectable testnet consensus-message reference |
 | **Mainnet / commercial outcome** | No qualifying public receipt presented | Not established |
@@ -251,14 +251,20 @@ Independent engineering and venture initiatives
 
 | Recognition | Public evidence |
 | :--- | :--- |
-| **Public Hedera engineering template** | [Scaffold-HBAR settlement repository](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement) |
-| **Documented testnet proof** | [Settlement and HCS evidence references](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement#verified-hedera-testnet-evidence) |
+| **Public Hedera engineering template** | [Scaffold-HBAR settlement repository](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.) |
+| **Documented testnet proof** | [Settlement and HCS evidence references](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.#verified-hedera-testnet-evidence) |
 
 *Milestones refer to published project documentation. Awards, paid bounties, and commercial deployment are not implied.*
 
 ---
 
 ## GitHub Analytics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=legacyofshahz&amp;style=flat-square&amp;color=00CDE8" alt="Profile views" /> <img src="https://img.shields.io/github/followers/legacyofshahz?style=flat-square&amp;color=FF7900&amp;label=Followers" alt="GitHub followers" /> <img src="https://img.shields.io/github/stars/legacyofshahz?style=flat-square&amp;color=E61929&amp;label=Stars" alt="GitHub stars" />
+
+</div>
 
 <div align="center">
 
@@ -323,7 +329,9 @@ open_to:
 ## Connect
 
 **GitHub:** [legacyofshahz](https://github.com/legacyofshahz)  
-**Featured work:** [Hedera HBAR Settlement Scaffold](https://github.com/legacyofshahz/scaffold-hbar-sovereign-settlement)
+**Featured work:** [Hedera HBAR Settlement Scaffold](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold.)
+
+If you work on verifiable Web3 systems, secure software, or trustworthy AI agents, [follow this profile](https://github.com/legacyofshahz) for future engineering updates. Thoughtful feedback, bug reports, and reproducible improvements are welcome through the [project's issues](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold./issues) and [contribution guide](https://github.com/legacyofshahz/hedera-hbar-settlement-scaffold./blob/main/CONTRIBUTING.md).
 
 Contact through my GitHub profile.
 
