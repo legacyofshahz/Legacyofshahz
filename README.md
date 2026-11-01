@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/profile-header-clarity-v2.svg" width="100%" alt="Shahazad Shameem Arakkal (Shazee), sharp chromatic midnight name banner" />
+<img src="./assets/profile-header-clarity-v2.svg" width="100%" alt="Shahazad Shameem (Shazee), sharp chromatic midnight name banner" />
 
 <img src="./assets/identity-role-card.svg" width="100%" alt="CEO & Founder - Syneximo Dynamics. Principal Software Architect x AI/ML Engineer. Cybersecurity, Cryptography, Cloud Computing, Blockchain and Web3" />
 
